@@ -121,7 +121,7 @@
         }
         /* Hover effect for the CTA text */
         #vca-badge-shortlisted a:hover .vca-text-vote{
-            background-color: #ffffff;
+            fill: #ffffff;
         }
     `;
     document.head.appendChild(style);
