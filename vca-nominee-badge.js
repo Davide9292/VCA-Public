@@ -118,6 +118,7 @@
         /* Hover effect for the CTA */
         #vca-badge-shortlisted a:hover .vca-badge-cta{
             background-color: #000000;
+            fill: #ffffff; 
         }
         /* Hover effect for the CTA text */
         #vca-badge-shortlisted a:hover .vca-text-vote{
