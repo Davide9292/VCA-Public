@@ -126,23 +126,18 @@
             <div class="vca-badge-inner">
                 <div class="vca-badge-top">
                     <!-- Placeholder SVG for the main icon (replace with your actual SVG path data) -->
-                    <svg class="vca-icon-main" viewBox="0 0 44.52 72.08">
-                        <path d="M22.26 0L0 72.08h44.52L22.26 0zM22.26 12.08L36.44 60H8.08L22.26 12.08zM18.26 30h8v15h-8zm0 18h8v6h-8z"/>
-                    </svg>
+                    <img src="/assets/vca-icon-main.svg" alt="VCA Nominee Badge" class="vca-icon-main">                    
                     <!-- Placeholder SVG for the horizontal line (replace with your actual SVG path data if different) -->
                     <svg class="vca-line" viewBox="0 0 84 1">
                         <line x1="0" y1="0.5" x2="84" y2="0.5" stroke="black" stroke-width="1"/>
                     </svg>
                     <!-- Placeholder SVG for "Nominee" text (replace with your actual SVG path data) -->
-                    <svg class="vca-text-nominee" viewBox="0 0 58.14 11.71">
-                        <path d="M57.94 11.71L58.14 0H0V11.71H57.94ZM1.81 1.81H56.33V9.9H1.81V1.81Z"/>
-                    </svg>
+                    <img src="/assets/vca-text-nominee.svg" alt="VCA Nominee Badge" class="vca-text-nominee">
+ 
                 </div>
                 <div class="vca-badge-cta">
                     <!-- Placeholder SVG for "VOTE!" text (replace with your actual SVG path data) -->
-                    <svg class="vca-text-vote" viewBox="0 0 56.52 15.80">
-                        <path d="M56.52 15.80L56.52 0H0V15.80H56.52ZM1.81 1.81H54.71V13.99H1.81V1.81Z"/>
-                    </svg>
+                    <img src="/assets/vca-text-vote.svg" alt="VCA Nominee Badge" class="vca-text-vote">
                 </div>
             </div>
         </a>
