@@ -120,7 +120,7 @@
             background-color: #000000;
         }
         /* Hover effect for the CTA text */
-        #vca-badge-shortlisted a:hover .vca-badge-vote{
+        #vca-badge-shortlisted a:hover .vca-text-vote{
             background-color: #ffffff;
         }
     `;
